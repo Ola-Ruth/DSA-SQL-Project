@@ -39,9 +39,9 @@ The following findings were derived from the SQL queries executed against the KM
     b. Northwest Territories: $800,847.33
     c. Yukon: $975,867.38
     
-3.	Total Sales of Appliances in Ontario:
+3. Total Sales of Appliances in Ontario:
 The total sales of appliances in Ontario amounted to $202,346.84.
-4.	Bottom 10 Customers by Revenue:
+4. Bottom 10 Customers by Revenue:
 The bottom 10 customers based on their total sales were:
   - Jeremy Farry: $85.72
   - Natalie DeCherney: $125.90
@@ -53,6 +53,43 @@ The bottom 10 customers based on their total sales were:
   - Chris McAfee: $350.18
   - Rick Huthwaite: $415.82
   - Mark Hamilton: $450.99
-5.	Shipping Method with Most Incurred Shipping Cost:
+5. Shipping Method with Most Incurred Shipping Cost:
 KMS incurred the most shipping cost using the Delivery Truck method, with a total cost of $51,971.94.
+
+#### Case Scenario II: Customer and Order Behavior
+6. Most Valuable Customers and Their Typical Purchases:
+The most valuable customers were identified as:
+  - Emily Phan: Total Sales: $117,124.44 - Typically purchased: Office Supplies, Technology, Furniture.
+  - Deborah Brumfield: Total Sales: $97,433.13 - Typically purchased: Technology, Furniture, Office Supplies.
+  - Roy Skaria: Total Sales: $92,542.15 - Typically purchased: Office Supplies, Furniture, Technology.
+  - Sylvia Foulston: Total Sales: $88,875.76 - Typically purchased: Furniture, Office Supplies, Technology.
+  - Grant Carroll: Total Sales: $88,417.00 - Typically purchased: Office Supplies, Technology, Furniture.
+7. Small Business Customer with Highest Sales:
+The small business (retail) customer with the highest sales was Dennis Kane with total sales of $75,967.59.
+8. Corporate Customer with Most Orders (2009-2012):
+The Corporate Customer (Wholesales) who placed the most orders between 2009 and 2012 was Adam Hart with 18 distinct orders.
+9. Most Profitable Consumer Customer:
+The most profitable consumer customer was Emily Phan with a total profit of $34,005.44.
+10. Customers Who Returned Items and Their Segments:
+Customers who returned items and their respective segments include:
+
+
+
+11. Appropriateness of Shipping Cost Spending Based on Order Priority:
+  - Analysis of Shipping Method Costs: Based on the data, 'Delivery Truck' was the most expensive shipping method with an average cost of $45.35, while 'Regular Air' was the most economical with an average cost of $7.66. 'Express Air' fell in between....
+
+
+### Recommendation
+Based on the key findings, it is recommended that KMS management:
+1. Capitalize on Top-Performing Categories: Invest further in the highest-selling product categories (e.g., Technology) to maximize revenue and market share.
+2. Target Bottom Customers: Implement specific strategies (e.g., personalized promotions, loyalty programs, direct outreach) to re-engage and increase revenue from the identified bottom 10 customers.
+3. Optimize Shipping Logistics: Continuously monitor the allocation of shipping methods based on order priority. Ensure that faster, more expensive methods are reserved for truly urgent orders, and economical methods are consistently utilized for less time-sensitive deliveries to optimize shipping costs.
+4. Customer Segmentation Focus: Deep insights into valuable customers (e.g., corporate, small business, consumer) to tailor product offerings, marketing campaigns, and service levels to each segment's specific needs and purchasing behaviors.
+5. Address Returns: Investigate the reasons behind returns from identified customers and segments to reduce future occurrences and improve customer satisfaction.
+
+### Limitation
+This analysis is based solely on the provided KMS Sql Case Study.csv dataset, covering orders from 2009 to 2012 for the Abuja division. It does not include external market data, competitor analysis, or more recent sales trends. The insights are limited to the available columns and the specific questions posed. Further analysis containing additional data sources and a broader time frame could provide a wholesome understanding of KMS's overall performance.
+
+### Queries Used
+
 
