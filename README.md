@@ -91,5 +91,8 @@ Based on the key findings, it is recommended that KMS management:
 This analysis is based solely on the provided KMS Sql Case Study.csv dataset, covering orders from 2009 to 2012 for the Abuja division. It does not include external market data, competitor analysis, or more recent sales trends. The insights are limited to the available columns and the specific questions posed. Further analysis containing additional data sources and a broader time frame could provide a wholesome understanding of KMS's overall performance.
 
 ### Queries Used
+![SQL Code 2](https://github.com/user-attachments/assets/3c19311b-596b-47e7-9d42-58dc9eb98185)
+
+![SQL Code](https://github.com/user-attachments/assets/80d8683b-c757-47a1-81c2-3ec1cb182bb3)
 
 
